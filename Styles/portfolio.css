@@ -200,7 +200,8 @@ footer input[type="text"], footer input[type="email"],footer textarea {
       nav,
       nav > ul,
       footer,
-    nav >  .about-items {
+    nav > ul,  
+    .about-items {
         flex-direction: column;
     }
     nav > ul{
